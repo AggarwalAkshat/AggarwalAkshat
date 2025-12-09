@@ -122,22 +122,6 @@
 
 ---
 
-## 📈 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AggarwalAkshat&show_icons=true&theme=radical" alt="Akshat's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AggarwalAkshat&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=AggarwalAkshat&theme=radical" alt="GitHub Streak" />
-</p>
-
----
-
 ## 💬 Outside of Code
 
 - 🕺 **Dancer at heart** – I’ve trained in **13 different dance forms**, and I love performing and choreographing, especially Bollywood & fusion pieces.  
