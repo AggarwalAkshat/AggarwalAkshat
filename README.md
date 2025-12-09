@@ -2,7 +2,7 @@
 <h1 align="center">Hey, I'm Akshat 👋</h1>
 
 <p align="center">
-  <b>Computer Science @ York University • AI & Cloud • Machine Learning • Software Development • Software Sales</b><br/>
+  <b>Computer Science @ York University • AI & Cloud • Software Sales • Machine Learning • Software Development</b><br/>
   <i>"I make the FUTURE."</i>
 </p>
 
