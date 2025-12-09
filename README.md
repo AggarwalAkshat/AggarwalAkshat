@@ -27,6 +27,8 @@
 - 🧠 Building **AI, cloud-native & data-driven solutions** (Python • Azure • Streamlit • DevOps)
 - 💼 Exploring the intersection of **software development, machine learning & software sales** – building things that are technically strong *and* business-aware
 - 🏛️ **President, Indian Cultural Association (ICA) @ York** – leading tech, events, community & brand
+- 💼 Currently open to **Software Sales / Developer / AI / Data / Solutions Engineering internships or co-ops**.
+
 
 **Some things I’ve worked on recently:**
 
